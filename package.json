@@ -72,10 +72,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dark-Asif/Baby-Bot.git"
+    "url": "git+https://github.com/zim-bot/zimbot-v3.git"
   },
   "bugs": {
-    "url": "https://github.com/Dark-Asif/Baby-Bot/issues"
+    "url": "https://github.com/Dark-Asif/zimbot-v3/issues"
   },
-  "homepage": "https://github.com/Dark-Asif/Baby-Bot#readme"
+  "homepage": "https://github.com/zim-bot/zimbot-v3#readme"
 }
