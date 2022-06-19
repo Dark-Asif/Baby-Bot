@@ -37,12 +37,14 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','447441437150']
-global.premium = ['27634090203','447441437150']
-global.botname = 'ZIM BOT INC'
-global.ownername ='DRIPS'
-global.packname = 'ZIM BOT INC'
-global.quoted = 'https://www.youtube.com/c/DRIPSOFC'
+global.owner = ['923474187615','6887117287']
+global.premium = ['923474187615','6887117287']
+global.botname = 'BABY BOT'
+global.ownername = 'ASIF'
+global.group1 = 'https://chat.whatsapp.com/JcjjnS7oSbQ3FPCCNJT44M'
+global.group2 = 'https://wa.me/+923474187615'
+global.packname = '𝒀𝒐𝒖𝒓 𝑫𝒓𝒆𝒂𝒎💛•🤍'
+global.ytchannel = 'https://wa.me/+923474187615'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -50,6 +52,11 @@ global.goldAwal = '10'
 global.emeraldAwal = '5'
 global.umpanAwal = '5'
 global.potionAwal = '1'
+global.dripstyping = false
+global.dripsreadgroup = false
+global.dripsreadall = false
+global.dripsrecord = true
+global.available = false
 global.limittot = 100,
 global.f1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
 global.f2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
@@ -57,7 +64,7 @@ global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.docu
 global.f4 = 'application/zip'
 global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
-global.author = 'ZIM BOT INC'
+global.author = 'ᴀsɪғ💛'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -65,13 +72,14 @@ global.sp = '⭔'
 global.mess = {
     success: '*success whoa*',
         ban: '*Sorry, looks like u got banned😔😔 type .owner To request unban okay*',
-    admin: '*this cmd is for bot owner only , l can feel you but sorry okay*',
+    horny: '*nsfw is disabled please ask owner to enable it*',
+    admin: '*this cmd is for admin only , l can feel you but sorry okay*',
     botAdmin: '*with due respect can you please give bot adminship*',
     owner: '*this cmd is for bot owner only , l can feel you but sorry okay*',
     group: '*this feature is only for groups okay*',
     private: '*this feature can only used in dm okay*',
     bot: '*Special Features for User Bot Number okay*',
-    wait: '*whoa wait zim bot processing okay*',
+    wait: '*whoa wait Baby bot processing okay*',
     endLimit: '*Brothers Daily Limit Has Expired, Type .buy limit amount limit to buy limit, Note: Limit will be reset every 12 hours*',
 }
 global.limitawal = {
@@ -88,8 +96,8 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')  
 global.bc = fs.readFileSync('./lib/bc.jpg')
-global.visoka = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
-global.vid = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
+global.visoka = { url: 'https://a.uguu.se/xnTJNehG.mp4' }
+global.vid = { url: 'https://a.uguu.se/xnTJNehG.mp4' }
 
 //—————「 Set Random Image Menu 」—————//
 
